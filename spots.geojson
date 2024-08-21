@@ -1,89 +1,27 @@
 {
-  type: 'FeatureCollection',
-  features: [
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.48443632015025, 37.78258031931791]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194, 37.7749]
       },
-      properties: {
-          title: 'Fiorella',
-          neighborhood: 'Richmond',
-          playlist: 'oB2Gao'
+      "properties": {
+        "name": "San Francisco",
+        "description": "A marker in San Francisco"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 34.0522]
       },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4235785, 37.7444458]
-      },
-      properties: {
-          title: 'Four Chairs',
-          neighborhood: 'Bernal Heights',
-          playlist: 'oB2Gao'
+      "properties": {
+        "name": "Los Angeles",
+        "description": "A marker in Los Angeles"
       }
-      },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4343776, 37.7648217]
-      },
-      properties: {
-          title: 'Frances',
-          neighborhood: 'Castro',
-          playlist: 'oB2Gao'
-      }
-      },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4095579, 37.768193]
-      },
-      properties: {
-          title: 'The Butcher Shop by Niku',
-          neighborhood: 'Design District',
-          playlist: 'oB2Gao'
-      }
-      },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4432972, 37.8042745]
-      },
-      properties: {
-          title: 'Ilcha',
-          neighborhood: 'Marina',
-          playlist: 'oB2Gao'
-      }
-      },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4386772, 37.7988162]
-      },
-      properties: {
-          title: 'Balboa Cafe',
-          neighborhood: 'Marina',
-          playlist: 'oB2Gao'
-      }
-      },
-      {
-      type: 'Feature',
-      geometry: {
-          type: 'Point',
-          coordinates: [-122.4386772, 37.7988162]
-      },
-      properties: {
-          title: 'Montesacro',
-          neighborhood: 'Marina',
-          playlist: 'oB2Gao'
-      }
-      }
+    }
   ]
-};
+}
