@@ -84,26 +84,6 @@
         "neighborhood": "Marina",
         "playlist": "o8dk1o"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-122.437065, 37.759757],
-            [-122.427049, 37.760935],
-            [-122.425187, 37.746833],
-            [-122.439471, 37.745574],
-            [-122.437065, 37.759757]
-          ]
-        ]
-      },
-      "properties": {
-        "title": "Pocket",
-        "neighborhood": "Noe Valley",
-        "playlist": "o8dk1o"
-      }
     }
   ]
 }
