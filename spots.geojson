@@ -100,7 +100,9 @@
         ]
       },
       "properties": {
-        "name": "San Francisco Area"
+        "title": "Pocket",
+        "neighborhood": "Noe Valley",
+        "playlist": "o8dk1o"
       }
     }
   ]
