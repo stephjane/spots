@@ -91,11 +91,11 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-122.437065, 37.759757],  // Northwest corner near Castro District
-            [-122.427049, 37.760935],  // Northeast corner near Dolores Heights
-            [-122.425187, 37.746833],  // Southeast corner near Mission District
-            [-122.439471, 37.745574],  // Southwest corner near Glen Park
-            [-122.437065, 37.759757]   // Close the loop back to the northwest corner
+            [-122.437065, 37.759757],
+            [-122.427049, 37.760935],
+            [-122.425187, 37.746833],
+            [-122.439471, 37.745574],
+            [-122.437065, 37.759757]
           ]
         ]
       },
