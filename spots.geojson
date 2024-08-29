@@ -91,11 +91,11 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-122.437065, 37.759757],  // Noe Valley - Northwest corner near Castro District
-            [-122.427049, 37.760935],  // Noe Valley - Northeast corner near Dolores Heights
-            [-122.425187, 37.746833],  // Noe Valley - Southeast corner near Mission District
-            [-122.439471, 37.745574],  // Noe Valley - Southwest corner near Glen Park
-            [-122.437065, 37.759757]   // Closing the loop for Noe Valley
+            [-122.437065, 37.759757],
+            [-122.427049, 37.760935],
+            [-122.425187, 37.746833],
+            [-122.439471, 37.745574],
+            [-122.437065, 37.759757]
           ]
         ]
       },
@@ -110,11 +110,11 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-122.423597, 37.765054],  // Mission - Northwest corner near Mission Dolores Park
-            [-122.409152, 37.765531],  // Mission - Northeast corner near Potrero Avenue
-            [-122.406282, 37.748647],  // Mission - Southeast corner near Cesar Chavez Street
-            [-122.422332, 37.746713],  // Mission - Southwest corner near Valencia Street
-            [-122.423597, 37.765054]   // Closing the loop for the Mission District
+            [-122.423597, 37.765054],
+            [-122.409152, 37.765531],
+            [-122.406282, 37.748647],
+            [-122.422332, 37.746713],
+            [-122.423597, 37.765054]
           ]
         ]
       },
